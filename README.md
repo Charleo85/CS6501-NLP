@@ -8,7 +8,7 @@
 
 ## Course Description
 
-Natural language processing (NLP) seeks to provide computers with the ability to process and understand human language intelligently. Examples of NLP techniques include (i) automatically translating from one natural language to another, (ii) analyzing documents to answer related questions or make related predictions, and (iii) generating texts for writing stories or building conversational agents. This course, consisting of one fundamental part and one advanced part, will give an overview of modern NLP techniques. Tentative topics include 
+Natural language processing (NLP) seeks to provide computers with the ability to process and understand human language intelligently. Examples of NLP techniques include (i) automatically translating from one natural language to another, (ii) analyzing documents to answer related questions or make related predictions, and (iii) generating texts to help story writing or build conversational agents. This course, consisting of one fundamental part and one advanced part, will give an overview of modern NLP techniques. Tentative topics include 
 
 1. POS tagging, syntactic parsing; 
 2. Discourse processing and coreference resolution; 
