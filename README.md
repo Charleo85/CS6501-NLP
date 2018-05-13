@@ -31,5 +31,10 @@ Topics of this course include
 - Smith, [Linguistic Structure Prediction](https://www.morganclaypool.com/doi/abs/10.2200/S00361ED1V01Y201105HLT013), 2009
 - Goodfellow, Bengio and Courville, [Deep Learning](http://www.deeplearningbook.org), 2016
 - Bender, [Linguistic Fundamentals for Natural Language Processing](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020), 2013
+- Eisenstein, [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), 2018
 
-**Last Updated**: May 10, 2018
+### Additional Readings
+
+**Coming soon!**
+
+**Last Updated**: May 12, 2018
