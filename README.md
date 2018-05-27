@@ -4,7 +4,9 @@
 
 - Instructor: [Yangfeng Ji](http://yangfengji.net)
 - Semester: Fall 2018
-- Time: TBD
+- Location: Thornton Hall D115
+- Time: Monday and Wednesday 12:30PM - 1:45PM
+- Mail-list: [uva-nlp-class@virginia.edu](https://lists.virginia.edu/sympa/info/uva-nlp-class) (Subscribe for course announcements)
 
 ## Course Description
 
@@ -37,4 +39,4 @@ Topics of this course include
 
 - [Reading List](readings.md)
 
-**Last Updated**: May 21, 2018
+**Last Updated**: May 26, 2018
