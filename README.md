@@ -20,9 +20,9 @@ Topics of this course include
 4. Neural language models, seq2seq models and neural machine translation;
 5. NLP applications: QA, text generation, etc.
 
-## Syllabus
+## Schedule
 
-- [Tentative topics per week](https://docs.google.com/spreadsheets/d/1vSIUQCYgkmJqzUKRi5VX7ScRci2puRBZUOIU5r4acP8/edit?usp=sharing)
+- [Tentative schedule](schedule.md)
 
 ## Textbooks
 
@@ -40,4 +40,4 @@ Topics of this course include
 
 - [Reading List](readings.md)
 
-**Last Updated**: May 26, 2018
+**Last Updated**: May 28, 2018
