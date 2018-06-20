@@ -26,11 +26,11 @@ Topics of this course include
 
 ## Textbooks
 
-- Jurafsky and Martin, [Speech and Language Processing](https://web.stanford.edu/%7Ejurafsky/slp3/), 3rd Edition, 2017
+- Eisenstein, [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), 2018
 
 ### Supplemental textbooks
 
-- Eisenstein, [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), 2018
+- Jurafsky and Martin, [Speech and Language Processing](https://web.stanford.edu/%7Ejurafsky/slp3/), 3rd Edition, 2017
 - Smith, [Linguistic Structure Prediction](https://www.morganclaypool.com/doi/abs/10.2200/S00361ED1V01Y201105HLT013), 2009
 - Shalev-Shwartz and Ben-David, [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/), 2014
 - Goodfellow, Bengio and Courville, [Deep Learning](http://www.deeplearningbook.org), 2016
