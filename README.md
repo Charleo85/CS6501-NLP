@@ -40,4 +40,4 @@ Topics of this course include
 
 - [Reading List](readings.md)
 
-**Last Updated**: May 28, 2018
+**Last Updated**: August 15, 2018

@@ -4,21 +4,20 @@
 
 | Date | Topics | Readings |
 |:-------------|:-----|:---- |
-| Aug. 27 |Introduction to NLP | |
-| Aug. 29 | Text classification, bag-of-words representations | |
-| Sept. 3 | Logistic regression, discriminative models | |
-| Sept. 5 | Statistical Language Modeling, $n$-gram models | |
-| Sept. 10 | Sequence labeling (I) Part-of-speech tagging, HMMs | |
-| Sept. 12 | Sequence labeling (II): Inference, Viterbi decoding | |
-| Sept. 17 | Sequence labeling (III): learning HMMs  | |
-| Sept. 19 | Parsing (I): (probabilistic) context-free grammar | |
-| Sept. 24 | Parsing (II): phrase structure parsing and CKY algorithm | |
-| Sept. 26 | Parsing (III): dependency grammar and transition based parsing | |
+| Aug. 29 | Introduction | |
+| Sept. 3 | Text classification, bag-of-words representations | |
+| Sept. 5 | Logistic regression, discriminative models | |
+| Sept. 10 | Statistical Language Modeling, $n$-gram models | |
+| Sept. 12 | Sequence labeling (I) Part-of-speech tagging, HMMs | |
+| Sept. 17 | Sequence labeling (II): Inference, Viterbi decoding | |
+| Sept. 19 | Sequence labeling (III): learning HMMs | |
+| Sept. 24 | Parsing (I): (probabilistic) context-free grammar | |
+| Sept. 26 | Parsing (II): phrase structure parsing and CKY algorithm | |
 | Oct. 1 | *Reading day* | |
 | Oct. 3 | *Reading day* | |
-| Oct. 8 | **Project proposal** | |
-| Oct. 10 | Statistical machine translation | |
-| Oct. 15 | Discourse processing | |
+| Oct. 8 | Parsing (III): dependency grammar and transition based parsing | |
+| Oct. 10 | **Project proposal** | |
+| Oct. 15 | Statistical machine translation | |
 | Oct. 17 | Feed-forward neural networks and back propagation algorithm | |
 | Oct. 22 | Representation learning (I): distributional representations  | |
 | Oct. 24 | Representation learning (II): word embeddings | |
