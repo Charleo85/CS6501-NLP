@@ -20,7 +20,7 @@ Topics of this course include
 4. Neural language models, seq2seq models and neural machine translation;
 5. NLP applications: QA, text generation, etc.
 
-## Schedule
+## Syllabus
 
 - [Tentative schedule](schedule.md)
 
@@ -35,9 +35,55 @@ Topics of this course include
 - Shalev-Shwartz and Ben-David, [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/), 2014
 - Goodfellow, Bengio and Courville, [Deep Learning](http://www.deeplearningbook.org), 2016
 
-
 ### Additional Readings
 
 - [Reading List](readings.md)
 
-**Last Updated**: August 15, 2018
+## Grading
+
+Assignments consist of 
+
+- three independent class projects: 20% x 3 = 60% in total
+- one group project: 40% = 10% (proposal) + 10% (final presentation) + 20% (implementation and report)
+
+## Class Policy
+
+### Prerequisites
+
+- The official prerequisites for this course are calculus, linear algebra, some basic probability and statistics. 
+- Good coding ability, corresponding to at least a third or fourth-year undergraduate CS major, is recommended. 
+
+### Coding policy
+
+- Assignments, including three independent class projects and one group project, will be in Python. The students are encouraged to use some deep learning packages (e.g., [PyTorch](https://pytorch.org), [DyNet](http://dynet.io)) and NLP toolkits (e.g., [AllenNLP](https://allennlp.org), [Stanford Core NLP](https://stanfordnlp.github.io/CoreNLP/)) in their class projects, **unless otherwise specified**. 
+- The students should follow the instructions strictly to use some external packages in their implementations. It is the students' responsibility to make sure their implemented systems can be run by the instructors for evaluation.
+
+### Collaboration policy
+
+- No collaboration is allowed for the independent projects. 
+- The students are highly encouraged to collaboruate on the group project, but the responsibility of each group member should be clear.
+- Using other people’s materials (e.g., written text, code, or figures) without attribution is plagiarism and is never acceptable.
+
+### Late policy
+
+- No late submission will be accepted. This late policy is intended to ensure fair and timely evaluation.
+
+### Honor code
+
+I trust every student in this course to fully comply with all of the provisions of the University’s Honor Code. By enrolling in this course, you have agreed to abide by and uphold the Honor System of the University of Virginia, as well as the policies specific to this course.
+
+All suspected violations will be forwarded to the Honor Committee, and you may, at my discretion, receive an immediate zero on that assignment regardless of any action taken by the Honor Committee. 
+
+Please let me know if you have any questions regarding the course honor policy. If you believe you may have committed an Honor Offense, you may wish to file a Conscientious Retraction by calling the Honor Offices at (434) 924-7602. For your retraction to be considered valid, it must, among other things, be filed with the Honor Committee before you are aware that the act in question has come under suspicion by anyone. More information can be found at [here](http://honor.virginia.edu).
+
+*Adapted from [Honor Syllabus Example Statement](https://honor.virginia.edu/statement) on the UVa Honor Committee website*
+
+## Acknowledgments
+
+The course materials are based on
+
+- Noah Smith's lecture slides
+- Jacob Eisenstein's textbook and his syllabus for the NLP class
+- Michael Collins' lecture notes
+
+**Last Updated**: August 19, 2018
