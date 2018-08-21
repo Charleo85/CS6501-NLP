@@ -4,8 +4,10 @@
 
 - Instructor: [Yangfeng Ji](http://yangfengji.net)
 - Semester: Fall 2018
-- Location: Thornton Hall D115
-- Time: Monday and Wednesday 12:30PM - 1:45PM
+- Location: Thornton Hall E316
+- Time: Monday and Wednesday 5:00PM - 6:15PM
+- Office Hour
+	- Yangfeng Ji: Tuesday 10:00AM - 11:00AM
 - Mail-list: [uva-nlp-class@virginia.edu](https://lists.virginia.edu/sympa/info/uva-nlp-class) (Subscribe for course announcements)
 
 ## Course Description
@@ -86,4 +88,4 @@ The course materials are based on
 - Jacob Eisenstein's textbook and his syllabus for the NLP class
 - Michael Collins' lecture notes
 
-**Last Updated**: August 19, 2018
+**Last Updated**: August 21, 2018
