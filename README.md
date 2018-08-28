@@ -7,8 +7,8 @@
 - Location: Thornton Hall E316
 - Time: Monday and Wednesday 5:00PM - 6:15PM
 - Office Hour
-	- Yangfeng Ji: Tuesday 10:00AM - 11:00AM
-- Mail-list: [uva-nlp-class@virginia.edu](https://lists.virginia.edu/sympa/info/uva-nlp-class) (Subscribe for course announcements)
+	- Yangfeng Ji: Tuesday 10:00AM - 11:00AM, Rice 510
+- [Piazza](https://piazza.com/virginia/fall2018/cs6501005/home): please register for course announcement and online discussion
 
 ## Course Description
 
@@ -68,7 +68,7 @@ Assignments consist of
 
 ### Late policy
 
-- No late submission will be accepted. This late policy is intended to ensure fair and timely evaluation.
+- **No** late submission will be accepted. This late policy is intended to ensure fair and timely evaluation.
 
 ### Honor code
 
