@@ -1,6 +1,6 @@
 # CS 6501 Natural Language Processing
 
-**Under Construction**
+**Subject to Change**, please visit the [course GitHub page](https://github.com/jiyfeng/uva-nlp-class) for the latest version.
 
 - Instructor: [Yangfeng Ji](http://yangfengji.net)
 - Semester: Fall 2018
@@ -28,14 +28,14 @@ Topics of this course include
 
 ## Textbooks
 
-- Eisenstein, [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), 2018
+- [JE] Eisenstein, [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), 2018
 
 ### Supplemental textbooks
 
-- Jurafsky and Martin, [Speech and Language Processing](https://web.stanford.edu/%7Ejurafsky/slp3/), 3rd Edition, 2017
-- Smith, [Linguistic Structure Prediction](https://www.morganclaypool.com/doi/abs/10.2200/S00361ED1V01Y201105HLT013), 2009
-- Shalev-Shwartz and Ben-David, [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/), 2014
-- Goodfellow, Bengio and Courville, [Deep Learning](http://www.deeplearningbook.org), 2016
+- [JM] Jurafsky and Martin, [Speech and Language Processing](https://web.stanford.edu/%7Ejurafsky/slp3/), 3rd Edition, 2017
+- [NS] Smith, [Linguistic Structure Prediction](https://www.morganclaypool.com/doi/abs/10.2200/S00361ED1V01Y201105HLT013), 2009
+- [SSBD] Shalev-Shwartz and Ben-David, [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/), 2014
+- [GBC] Goodfellow, Bengio and Courville, [Deep Learning](http://www.deeplearningbook.org), 2016
 
 ### Additional Readings
 
@@ -88,4 +88,4 @@ The course materials are based on
 - Jacob Eisenstein's textbook and his syllabus for the NLP class
 - Michael Collins' lecture notes
 
-**Last Updated**: August 21, 2018
+**Last Updated**: August 27, 2018
