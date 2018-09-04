@@ -28,8 +28,8 @@
 | Nov. 12 | Convolutional neural networks for NLP (I) | |
 | Nov. 14 | Convolutional neural networks for NLP (II) | |
 | Nov. 19 | Generative adversarial networks and text generation | |
-| Nov. 21 | Reinforcement learning for NLP | |
-| Nov. 26 | *Thanksgiving* | |
+| Nov. 21 | *Thanksgiving* | |
+| Nov. 26 | Reinforcement learning for NLP | |
 | Nov. 28 | **Project presentation** | |
 | Dec. 3 | **Project presentation** | |
 | Dec. 5 | **Project presentation** | |
