@@ -5,9 +5,9 @@
 | Date | Topics | Readings |
 |:-------------|:-----|:---- |
 | Aug. 29 | Introduction | |
-| Sept. 3 | [Text classification, bag-of-words representations](slides/lecture-02.pdf) | JE Sec 2.2, 4.4|
-| Sept. 5 | Logistic regression, Naive Bayes | JE Sec 2.1, 2.4 - 2.6|
-| Sept. 10 | Statistical Language Modeling, $n$-gram models | |
+| Sept. 3 | [Text classification, bag-of-words representations](slides/lecture-02.pdf) | JE Sec. 2.2, 4.4|
+| Sept. 5 | [Logistic regression, Regularization](slides/lecture-03.pdf) | JE Sec. 2.4 - 2.6|
+| Sept. 10 | Statistical Language Modeling, n-gram models | |
 | Sept. 12 | Sequence labeling (I) Part-of-speech tagging, HMMs | |
 | Sept. 17 | Sequence labeling (II): Inference, Viterbi decoding | |
 | Sept. 19 | Sequence labeling (III): learning HMMs | |
