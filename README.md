@@ -10,6 +10,10 @@
 	- Yangfeng Ji: Tuesday 10:00AM - 11:00AM, Rice 510
 - [Piazza](https://piazza.com/virginia/fall2018/cs6501005/home): please register for course announcement and online discussion
 
+## Announcements
+
+- [CS 6501-005 Group Project Signup](https://docs.google.com/spreadsheets/d/1HKC2zAigXPVabVVs_abJQ8pzTNj3WM9DuI8DgSP-C9w/edit?usp=sharing)
+
 ## Course Description
 
 Natural language processing (NLP) seeks to provide computers with the ability to process and understand human language intelligently. Examples of NLP techniques include (i) automatically translating from one natural language to another, (ii) analyzing documents to answer related questions or make related predictions, and (iii) generating texts to help story writing or build conversational agents. This course, consisting of one fundamental part and one advanced part, will give an overview of modern NLP techniques. 
