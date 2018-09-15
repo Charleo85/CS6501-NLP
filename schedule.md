@@ -8,16 +8,17 @@
 | Sept. 3 | [Text classification, bag-of-words representations](slides/lecture-02.pdf) | JE Sec. 2.2, 4.4|
 | Sept. 5 | [Logistic regression, Regularization](slides/lecture-03.pdf) | JE Sec. 2.4 - 2.6|
 | Sept. 10 | [Statistical Language Modeling, n-gram models](slides/lecture-04.pdf) | JE Sec. 6.1, 6.4 - 6.5|
-| Sept. 12 | [Sequence labeling (I) Part-of-speech tagging, HMMs](slides/lecture-05.pdf) | JE Sec. 7.1 - 7.2, 8.1|
-| Sept. 17 | Sequence labeling (II): Inference, Viterbi decoding | |
-| Sept. 19 | Sequence labeling (III): learning HMMs | |
-| Sept. 24 | Parsing (I): (probabilistic) context-free grammar | |
-| Sept. 26 | Parsing (II): phrase structure parsing and CKY algorithm | |
+| Sept. 12 | [Sequence labeling (I): Part-of-speech tagging, HMMs](slides/lecture-05.pdf) | JE Sec. 7.1 - 7.2, 8.1|
+| Sept. 17 | Sequence labeling (II): Discriminative models, CRF | [Notes from M. Collins](http://www.cs.columbia.edu/~mcollins/crf.pdf) |
+| Sept. 19 | Parsing (I): Context-free grammar | JE Sec. 9.2|
+| Sept. 24 | Parsing (II): Probabilistic Context-free Grammars, CKY algorithm | |
+| Sept. 26 | Parsing (III): Dependency grammar and transition based parsing | |
 | Oct. 1 | *Reading day* | |
 | Oct. 3 | *Reading day* | |
-| Oct. 8 | Parsing (III): dependency grammar and transition based parsing | |
+| *Oct. 5* | *Project proposal deadline* | |
+| Oct. 8 | Statistical machine translation | |
 | Oct. 10 | **Project proposal** | |
-| Oct. 15 | Statistical machine translation | |
+| Oct. 15 | **Project proposal** | |
 | Oct. 17 | Feed-forward neural networks and back propagation algorithm | |
 | Oct. 22 | Representation learning (I): distributional representations  | |
 | Oct. 24 | Representation learning (II): word embeddings | |
