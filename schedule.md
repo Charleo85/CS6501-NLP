@@ -15,7 +15,7 @@
 | Sept. 26 | Parsing (III): Dependency grammar and transition based parsing | |
 | Oct. 1 | *Reading day* | |
 | Oct. 3 | *Reading day* | |
-| *Oct. 5* | *Project proposal deadline* | |
+| *Oct. 7* | *Project proposal deadline* | |
 | Oct. 8 | Statistical machine translation | |
 | Oct. 10 | **Project proposal** | |
 | Oct. 15 | **Project proposal** | |
