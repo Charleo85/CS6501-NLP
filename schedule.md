@@ -10,7 +10,7 @@
 | Sept. 10 | [Statistical Language Modeling, n-gram models](slides/lecture-04.pdf) | JE Sec. 6.1, 6.4 - 6.5|
 | Sept. 12 | [Sequence labeling (I): Part-of-speech tagging, HMMs](slides/lecture-05.pdf) | JE Sec. 7.1 - 7.2, 8.1|
 | Sept. 17 | [Sequence labeling (II): Discriminative models, CRF](slides/lecture-06.pdf) | [Note from M. Collins](http://www.cs.columbia.edu/~mcollins/crf.pdf) |
-| Sept. 19 | Parsing (I): Context-free grammar | [Note from M. Collins](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/pcfgs.pdf)|
+| Sept. 19 | [Parsing (I): (Probabilistic) Context-free grammar](slides/lecture-07.pdf) | [Note from M. Collins](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/pcfgs.pdf)|
 | Sept. 24 | Parsing (II): Probabilistic Context-free Grammars, CKY algorithm | |
 | Sept. 26 | Parsing (III): Dependency grammar and transition based parsing | |
 | Oct. 1 | *Reading day* | |
