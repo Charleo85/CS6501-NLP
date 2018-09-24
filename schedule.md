@@ -11,7 +11,7 @@
 | Sept. 12 | [Sequence labeling (I): Part-of-speech tagging, HMMs](slides/lecture-05.pdf) | JE Sec. 7.1 - 7.2, 8.1|
 | Sept. 17 | [Sequence labeling (II): Discriminative models, CRF](slides/lecture-06.pdf) | [Note from M. Collins](http://www.cs.columbia.edu/~mcollins/crf.pdf) |
 | Sept. 19 | [Parsing (I): (Probabilistic) Context-free grammar](slides/lecture-07.pdf) | [Note from M. Collins](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/pcfgs.pdf)|
-| Sept. 24 | Parsing (II): Probabilistic Context-free Grammars, CKY algorithm | |
+| Sept. 24 | [Parsing (II): Probabilistic Context-free Grammars, CKY algorithm](slides/lecture-08.pdf) | |
 | Sept. 26 | Parsing (III): Dependency grammar and transition based parsing | |
 | Oct. 1 | Statistical machine translation | |
 | Oct. 3 | Feed-forward neural networks and back propagation algorithm | |
