@@ -12,7 +12,7 @@
 | Sept. 17 | [Sequence labeling (II): Discriminative models, CRF](slides/lecture-06.pdf) | [Note from M. Collins](http://www.cs.columbia.edu/~mcollins/crf.pdf) |
 | Sept. 19 | [Parsing (I): (Probabilistic) Context-free grammar](slides/lecture-07.pdf) | [Note from M. Collins](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/pcfgs.pdf)|
 | Sept. 24 | [Parsing (II): Probabilistic Context-free Grammars, CKY algorithm](slides/lecture-08.pdf) | |
-| Sept. 26 | Parsing (III): Dependency grammar and transition based parsing | |
+| Sept. 26 | Parsing (III): Dependency grammar and transition based parsing | [JM 13.1 - 13.4](https://web.stanford.edu/%7Ejurafsky/slp3/13.pdf) |
 | Oct. 1 | Statistical machine translation | |
 | Oct. 3 | Feed-forward neural networks and back propagation algorithm | |
 | *Oct. 5* | *Project proposal deadline* | |
