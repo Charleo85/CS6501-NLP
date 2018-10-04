@@ -13,8 +13,8 @@
 | Sept. 19 | [Parsing (I): (Probabilistic) Context-free grammar](slides/lecture-07.pdf) | [Note from M. Collins](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/pcfgs.pdf)|
 | Sept. 24 | [Parsing (II): Probabilistic Context-free Grammars, CKY algorithm](slides/lecture-08.pdf) | |
 | Sept. 26 | [Parsing (III): Dependency grammar and transition based parsing](slides/lecture-09.pdf) | [JM 13.1 - 13.4](https://web.stanford.edu/%7Ejurafsky/slp3/13.pdf) |
-| Oct. 1 | Statistical machine translation | [Note from M. Collins](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/ibm12.pdf) Sec. 1 - 5 |
-| Oct. 3 | Feed-forward neural networks and back propagation algorithm | [Note from M. Collins](http://www.cs.columbia.edu/~mcollins/ff.pdf) |
+| Oct. 1 | [Statistical machine translation](slides/lecture-10.pdf) | [Note from M. Collins](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/ibm12.pdf) Sec. 1 - 5 |
+| Oct. 3 | [Feed-forward neural networks and back propagation algorithm](slides/lecture-11.pdf) | [Note from M. Collins](http://www.cs.columbia.edu/~mcollins/ff.pdf) |
 | *Oct. 5* | *Project proposal deadline* | |
 | Oct. 8 | *Reading day*  | |
 | Oct. 10 | **Project proposal presentation** | |
