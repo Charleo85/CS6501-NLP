@@ -19,7 +19,7 @@
 | Oct. 8 | *Reading day*  | |
 | Oct. 10 | **Project proposal presentation** | |
 | Oct. 15 | **Project proposal presentation** | |
-| Oct. 17 | Optimization for Deep Learning | |
+| Oct. 17 | Optimization for Deep Learning | [Readings Sec. 1](readings.md) |
 | Oct. 22 | Representation learning (I): distributional representations  | |
 | Oct. 24 | Representation learning (II): word embeddings | |
 | Oct. 29 | Neural language modeling (I): text evaluation | |
