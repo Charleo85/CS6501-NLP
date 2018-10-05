@@ -4,7 +4,7 @@
 
 **Mandatory**
 
-1. Bottou, [Stochastic Gradient Descent Tricks](https://cilvr.cs.nyu.edu/diglib/lsml/bottou-sgd-tricks-2012.pdf), 2012
+1. Bottou, [Stochastic Gradient Descent Tricks](readings/bottou2012stochastic.pdf), 2012
 2. Kingma and Ba, [Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf), 2015
 
 **Optional**
