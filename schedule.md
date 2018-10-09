@@ -20,8 +20,8 @@
 | Oct. 10 | **Project proposal presentation** | |
 | Oct. 15 | **Project proposal presentation** | |
 | Oct. 17 | Optimization for Deep Learning | [Readings Sec. 1](readings.md) |
-| Oct. 22 | Representation learning (I): distributional representations  | |
-| Oct. 24 | Representation learning (II): word embeddings | |
+| Oct. 22 | Representation learning (I): word embeddings  | [Readings Sec. 2](readings.md) |
+| Oct. 24 | Representation learning (II): semantic composition | |
 | Oct. 29 | Neural language modeling (I): text evaluation | |
 | Oct. 31 | Neural language modeling (II): text generation | |
 | Nov. 5 | Sequence-to-sequence models and attention mechanism | |
