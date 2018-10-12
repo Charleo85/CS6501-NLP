@@ -17,7 +17,7 @@
 **Mandatory**
 
 - Mikolov et al., [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf), 2013
-- Faruqui et al., [Improving Vector Space Word Representations Using Multilingual Correlation](http://www.aclweb.org/anthology/E14-1049), 2014
+- Pennington et al., [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf), 2014
 - Faruqui et al., [Retrofitting Word Vectors to Semantic Lexicons](https://www.cs.cmu.edu/~hovy/papers/15HLT-retrofitting-word-vectors.pdf), 2015
 
 **Optional**
