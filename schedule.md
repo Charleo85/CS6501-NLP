@@ -20,17 +20,17 @@
 | Oct. 10 | **Project proposal presentation** | |
 | Oct. 15 | **Project proposal presentation** | |
 | Oct. 17 | [Optimization for Deep Learning](slides/lecture-12.pdf) | [Readings Sec. 1](readings.md) |
-| Oct. 22 | Representation learning (I): word embeddings  | [Readings Sec. 2](readings.md) |
-| Oct. 24 | Representation learning (II): semantic composition | |
-| Oct. 29 | Neural language modeling (I): text evaluation | |
-| Oct. 31 | Neural language modeling (II): text generation | |
-| Nov. 5 | Sequence-to-sequence models and attention mechanism | |
-| Nov. 7 | Neural machine translation | |
-| Nov. 12 | Convolutional neural networks for NLP (I) | |
-| Nov. 14 | Convolutional neural networks for NLP (II) | |
-| Nov. 19 | Generative adversarial networks and text generation | |
+| Oct. 22 | Word embeddings (I): Models  | [Readings Sec. 2](readings.md) |
+| Oct. 24 | Word embeddings (II): Evaluation and problems  | [Readings Sec. 3](readings.md) |
+| Oct. 29 | Text representation learning | |
+| Oct. 31 | Neural language modeling (I) | |
+| Nov. 5 | Neural language modeling (II)  | |
+| Nov. 7 | Sequence-to-sequence models and attention mechanism | |
+| Nov. 12 | Neural machine translation | |
+| Nov. 14 | Convolutional neural networks for NLP (I) | |
+| Nov. 19 | Convolutional neural networks for NLP (II) | |
 | Nov. 21 | *Thanksgiving* | |
-| Nov. 26 | Reinforcement learning for NLP | |
-| Nov. 28 | **Project presentation** | |
+| Nov. 26 | Generative adversarial networks and text generation| |
+| Nov. 28 | Reinforcement learning for NLP  | |
 | Dec. 3 | **Project presentation** | |
 | Dec. 5 | **Project presentation** | |
