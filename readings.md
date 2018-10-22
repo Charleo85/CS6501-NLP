@@ -32,10 +32,12 @@
 
 - Faruqui et al., [Problems With Evaluation of Word Embeddings Using Word Similarity Tasks](http://www.aclweb.org/anthology/W16-2506), 2016
 - Bolukbasi1 et al., [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf), 2016
-- Subramanian et al., [SPINE: SParse Interpretable Neural Embeddings](https://arxiv.org/abs/1711.08792), 2018
+- Park et al., [Rotated Word Vector Representations and their Interpretability](http://aclweb.org/anthology/D17-1041), 2017
+
 
 **Optional**
 
+- Subramanian et al., [SPINE: SParse Interpretable Neural Embeddings](https://arxiv.org/abs/1711.08792), 2018
 - Schnabel et al., [Evaluation methods for unsupervised word embeddings](https://www.cs.cornell.edu/~schnabts/downloads/schnabel2015embeddings.pdf), 2015
 - Bakarov, [A Survey of Word Embeddings Evaluation Methods](https://arxiv.org/abs/1801.09536), 2018
 - Brunet et al., [Understanding the Origins of Bias in Word Embeddings](https://arxiv.org/abs/1810.03611), 2018
