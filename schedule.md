@@ -21,7 +21,7 @@
 | Oct. 15 | **Project proposal presentation** | |
 | Oct. 17 | [Optimization for Deep Learning](slides/lecture-12.pdf) | [Readings Sec. 1](readings.md) |
 | Oct. 22 | [Word embeddings (I): Models](slides/lecture-13.pdf)  | [Readings Sec. 2](readings.md) |
-| Oct. 24 | Word embeddings (II): Evaluation and problems  | [Readings Sec. 3](readings.md) |
+| Oct. 24 | [Word embeddings (II): Evaluation and problems](slides/lecture-14.pdf)  | [Readings Sec. 3](readings.md) |
 | Oct. 29 | Text representation learning | |
 | Oct. 31 | Neural language modeling (I) | |
 | Nov. 5 | Neural language modeling (II)  | |
