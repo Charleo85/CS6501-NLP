@@ -32,5 +32,5 @@
 | Nov. 21 | *Thanksgiving* | |
 | Nov. 26 | Generative adversarial networks and text generation| |
 | Nov. 28 | Reinforcement learning for NLP  | |
-| Dec. 3 | **Project presentation** | |
+| Dec. 3 | Interpretability in NLP| |
 | Dec. 5 | **Project presentation** | |
