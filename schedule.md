@@ -22,15 +22,15 @@
 | Oct. 17 | [Optimization for Deep Learning](slides/lecture-12.pdf) | [Readings Sec. 1](readings.md) |
 | Oct. 22 | [Word embeddings (I): Models](slides/lecture-13.pdf)  | [Readings Sec. 2](readings.md) |
 | Oct. 24 | [Word embeddings (II): Evaluation and problems](slides/lecture-14.pdf)  | [Readings Sec. 3](readings.md) |
-| Oct. 29 | Text representation learning | |
-| Oct. 31 | Neural language modeling (I) | |
-| Nov. 5 | Neural language modeling (II)  | |
-| Nov. 7 | Sequence-to-sequence models and attention mechanism | |
-| Nov. 12 | Neural machine translation | |
-| Nov. 14 | Convolutional neural networks for NLP (I) | |
-| Nov. 19 | Convolutional neural networks for NLP (II) | |
+| Oct. 29 | Recurrent neural network language modeling | [] |
+| Oct. 31 | Sequence-to-sequence models and attention mechanism | |
+| Nov. 5 | Neural text generation | |
+| Nov. 7 | Deep latent variable models | |
+| Nov. 12 | Convolutional neural networks  | |
+| Nov. 14 | Convolutional neural networks for NLP | |
+| Nov. 19 | Representation learning on Texts | |
 | Nov. 21 | *Thanksgiving* | |
-| Nov. 26 | Generative adversarial networks and text generation| |
+| Nov. 26 | Generative adversarial networks| |
 | Nov. 28 | Reinforcement learning for NLP  | |
 | Dec. 3 | Interpretability in NLP| |
 | Dec. 5 | **Project presentation** | |
