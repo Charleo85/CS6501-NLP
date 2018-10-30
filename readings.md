@@ -73,7 +73,30 @@
 - Vinyals et al., [Grammar as a Foreign Language](https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf), 2015
 - Rush et al., [A Neural Attention Model for Sentence Summarization](https://www.aclweb.org/anthology/D/D15/D15-1044.pdf), 2015
 
-## 6. Neural text generation
+## 6. Latent Variable Models: Variational Inference and Topic Modeling
+
+**Mandatory**
+
+- Blei et al., [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf), 2016
+
+
+**Optional**
+
+- Blei et al., [Latent Dirichlet Allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf), 2003
+- Blei and Lafferty, [Topic Models](http://www.cs.columbia.edu/~blei/papers/BleiLafferty2009.pdf), 2009
+
+## 7. Latent Variable Models: Variational auto-encoder
+
+**Mandatory**
+
+- Kingma and Willing, [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf), 2014
+
+**Optional**
+
+- Rezende et al., [Stochastic backpropagation and approximate inference in deep generative models](https://arxiv.org/pdf/1401.4082.pdf), 2014
+- Miao et al., [Neural Variational Inference for Text Processing](https://arxiv.org/pdf/1511.06038.pdf), 2016
+
+## 8. Neural Text Generation
 
 **Mandatory**
 
@@ -84,4 +107,6 @@
 **Optional**
 
 - Sordoni et al., [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](http://yangfengji.net/publication/papers/sordoni-naacl-2015.pdf), 2015
-- TODO
+- Gatt and Krahmer, [Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation](https://arxiv.org/pdf/1703.09902.pdf), 2017
+
+
