@@ -84,6 +84,7 @@
 
 - Blei et al., [Latent Dirichlet Allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf), 2003
 - Blei and Lafferty, [Topic Models](http://www.cs.columbia.edu/~blei/papers/BleiLafferty2009.pdf), 2009
+- Blei, [Build, Compute, Critique, Repeat: Data Analysis with Latent Variable Models](http://www.cs.columbia.edu/~blei/papers/Blei2014b.pdf), 2014
 
 ## 7. Latent Variable Models: Variational auto-encoder
 
