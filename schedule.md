@@ -23,7 +23,7 @@
 | Oct. 22 | [Word embeddings (I): Models](slides/lecture-13.pdf)  | [Readings Sec. 2](readings.md) |
 | Oct. 24 | [Word embeddings (II): Evaluation and problems](slides/lecture-14.pdf)  | [Readings Sec. 3](readings.md) |
 | Oct. 29 | [Recurrent neural network language modeling](slides/lecture-15.pdf) | [Readings Sec. 4](readings.md) |
-| Oct. 31 | Sequence-to-sequence models and attention mechanism | [Readings Sec. 5](readings.md) |
+| Oct. 31 | [Sequence-to-sequence models and attention mechanism](slides/lecture-16.pdf) | [Readings Sec. 5](readings.md) |
 | Nov. 5 | Deep latent variable models (I) | [Readings Sec. 6](readings.md) |
 | Nov. 7 | Deep latent variable models (II) | [Readings Sec. 7](readings.md) |
 | Nov. 12 | Neural text generation | [Readings Sec. 8](readings.md) |
