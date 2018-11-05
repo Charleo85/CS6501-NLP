@@ -1,7 +1,5 @@
 from nltk.tokenize import word_tokenize
 import numpy as np
-<<<<<<< HEAD
-<<<<<<< HEAD
 from random import shuffle
 import pickle
 from tqdm import tqdm_notebook as tqdm
@@ -80,14 +78,6 @@ dev_labels = f.readlines()
 f.close()
 dev_X_Y = loadfxy(dev_labels, dev_features)
 save_pickle(dev_X_Y, 'dev_X_Y.pickle')
-=======
-
-tf = {}
-=======
-from random import shuffle
-import pickle
-from tqdm import tqdm_notebook as tqdm
->>>>>>> c9e8341... report1
 
 def save_pickle(data, filename='sample.pickle'):
     with open(filename, mode='wb') as f:
@@ -119,14 +109,12 @@ def loadData(fname):
 	    features.append(feature)
 	return features
 
-<<<<<<< HEAD
 train_features = loadData('trn')
 print(tf)
 print(train_features)
 pickle.save(train_features, 'train_tf')
 pickle.save(train_features, 'train_features')
->>>>>>> 6407107... proj1
-=======
+
 word2index = {}
 index2word = {}
 index = 1
@@ -171,4 +159,3 @@ dev_labels = f.readlines()
 f.close()
 dev_X_Y = loadfxy(dev_labels, dev_features)
 save_pickle(dev_X_Y, 'dev_X_Y.pickle')
->>>>>>> c9e8341... report1

@@ -34,12 +34,15 @@ class CRF(object):
     def train(self):
         print "Training CRF ..."
         self.model = crfsuite.CRF(
-            algorithm='lbfgs',
-            max_iterations=5)
+            algorithm='ap', 
+            # algorithm='lbfgs',
+            max_iterations=20)
         self.model.fit(self.trn_feats, self.trn_tags)
         trn_tags_pred = self.model.predict(self.trn_feats)
+        print "train set performance:"
         self.eval(trn_tags_pred, self.trn_tags)
         dev_tags_pred = self.model.predict(self.dev_feats)
+        print "dev set performance:"
         self.eval(dev_tags_pred, self.dev_tags)
 
 
@@ -54,9 +57,20 @@ class CRF(object):
         """ Extract features with respect to time step i
         """
         # the i-th token
-        word_feats = {'tok', sent.tokens[i]}
+        word_feats = {'tok': sent.tokens[i]}
         # TODO for question 1
         # the i-th tag
+        # word_feats['tag'] = sent.tags[i]
+
+        word_feats['last_letter'] = sent.tokens[i][-1]
+        word_feats['first_letter'] = sent.tokens[i][0]
+        word_feats['last2_letter'] = sent.tokens[i][-2:]
+        word_feats['first2_letter'] = sent.tokens[i][:2]
+        word_feats['prev_word'] = sent.tokens[i-1] if i>0 else '<start>'
+        word_feats['next_word'] = sent.tokens[i+1] if i+1<len(sent.tokens) else '<end>'
+        word_feats['is_digit'] =  sent.tokens[i].isdigit()
+
+        # print(word_feats)
         # 
         # TODO for question 2
         # add more features here
