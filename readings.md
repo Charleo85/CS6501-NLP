@@ -41,6 +41,7 @@
 - Schnabel et al., [Evaluation methods for unsupervised word embeddings](https://www.cs.cornell.edu/~schnabts/downloads/schnabel2015embeddings.pdf), 2015
 - Bakarov, [A Survey of Word Embeddings Evaluation Methods](https://arxiv.org/abs/1801.09536), 2018
 - Brunet et al., [Understanding the Origins of Bias in Word Embeddings](https://arxiv.org/abs/1810.03611), 2018
+- Marvin and Linzen, [Targeted Syntactic Evaluation of Language Models](https://arxiv.org/pdf/1808.09031.pdf), 2018
 
 ## 4. RNNs and RNN LMs
 
