@@ -25,7 +25,7 @@
 | Oct. 29 | [Recurrent neural network language modeling](slides/lecture-15.pdf) | [Readings Sec. 4](readings.md) |
 | Oct. 31 | [Sequence-to-sequence models and attention mechanism](slides/lecture-16.pdf) | [Readings Sec. 5](readings.md) |
 | Nov. 5 | [Latent variable models](slides/lecture-17.pdf) | [Readings Sec. 6](readings.md) |
-| Nov. 7 | Deep latent variable models | [Readings Sec. 7](readings.md) |
+| Nov. 7 | [Deep latent variable models](slides/lecture-18.pdf) | [Readings Sec. 7](readings.md) |
 | Nov. 12 | Neural text generation | [Readings Sec. 8](readings.md) |
 | Nov. 14 | Convolutional neural networks for NLP | |
 | Nov. 19 | Representation learning on Texts | |
