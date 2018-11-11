@@ -111,4 +111,15 @@
 - Sordoni et al., [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](http://yangfengji.net/publication/papers/sordoni-naacl-2015.pdf), 2015
 - Gatt and Krahmer, [Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation](https://arxiv.org/pdf/1703.09902.pdf), 2017
 
+## 9. Convolutional neural networks for NLP
 
+**Mandatory**
+
+- Collobert et al., [Natural Language Processing (Almost) from Scratch](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf), 2011
+- Kalchbrenner et al., [A Convolutional Neural Network for Modelling Sentences](https://arxiv.org/pdf/1404.2188.pdf), 2014
+
+
+**Optional**
+
+- Kim, [Convolutional Neural Networks for Sentence Classification](http://www.aclweb.org/anthology/D14-1181), 2014
+- Bai et al., [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://arxiv.org/pdf/1803.01271.pdf), 2018
