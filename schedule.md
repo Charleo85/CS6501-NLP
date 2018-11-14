@@ -27,7 +27,7 @@
 | Nov. 5 | [Latent variable models](slides/lecture-17.pdf) | [Readings Sec. 6](readings.md) |
 | Nov. 7 | [Deep latent variable models](slides/lecture-18.pdf) | [Readings Sec. 7](readings.md) |
 | Nov. 12 | [Text generation](slides/lecture-19.pdf) | [Readings Sec. 8](readings.md) |
-| Nov. 14 | Convolutional neural networks for NLP | [Readings Sec. 9](readings.md) |
+| Nov. 14 | [Convolutional neural networks for NLP](slides/lecture-20.pdf) | [Readings Sec. 9](readings.md) |
 | Nov. 19 | Representation learning on Texts | |
 | Nov. 21 | *Thanksgiving* | |
 | Nov. 26 | Generative adversarial networks| |
