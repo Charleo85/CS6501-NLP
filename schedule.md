@@ -28,9 +28,9 @@
 | Nov. 7 | [Deep latent variable models](slides/lecture-18.pdf) | [Readings Sec. 7](readings.md) |
 | Nov. 12 | [Text generation](slides/lecture-19.pdf) | [Readings Sec. 8](readings.md) |
 | Nov. 14 | [Convolutional neural networks for NLP](slides/lecture-20.pdf) | [Readings Sec. 9](readings.md) |
-| Nov. 19 | Representation learning on Texts | |
+| Nov. 19 | Representation learning on Texts | [Readings Sec. 10](readings.md) |
 | Nov. 21 | *Thanksgiving* | |
-| Nov. 26 | Generative adversarial networks| |
+| Nov. 26 | Generative adversarial networks|  |
 | Nov. 28 | Reinforcement learning for NLP  | |
 | Dec. 3 | Interpretability in NLP| |
 | Dec. 5 | **Project presentation** | |

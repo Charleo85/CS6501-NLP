@@ -123,3 +123,16 @@
 
 - Kim, [Convolutional Neural Networks for Sentence Classification](http://www.aclweb.org/anthology/D14-1181), 2014
 - Bai et al., [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://arxiv.org/pdf/1803.01271.pdf), 2018
+
+## 10. Representation learning on texts
+
+**Mandatory**
+
+- Mitchell and Lapata, [Vector-based Models of Semantic Composition](http://www.aclweb.org/anthology/P08-1028), 2008
+- Socher et al., [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf), 2013
+- Kim et al., [Skip-Thought Vectors](https://arxiv.org/pdf/1506.06726.pdf), 2015
+
+**Optional**
+
+- Mitchell and Lapata, [Composition in Distributional Models of Semantics](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1551-6709.2010.01106.x), 2010
+- Irsoy and Cardie, [Opinion Mining with Deep Recurrent Neural Networks](https://www.cs.cornell.edu/~oirsoy/files/emnlp14drnt.pdf), 2014
