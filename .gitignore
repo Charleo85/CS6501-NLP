@@ -1,3 +1,5 @@
 *.DS_Store
 *.pyc
 *.pickle
+**/logs/
+**/.ipynb_checkpoints/
