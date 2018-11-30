@@ -7,7 +7,7 @@ from tqdm import tqdm, tnrange, tqdm_notebook
 
 import os
 os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID"   # see issue #152
-os.environ["CUDA_VISIBLE_DEVICES"]="1"
+os.environ["CUDA_VISIBLE_DEVICES"]="2"
 
 print(tf.test.is_gpu_available())
 print(tf.test.is_built_with_cuda())

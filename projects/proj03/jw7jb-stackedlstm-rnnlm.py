@@ -52,7 +52,7 @@ wordids_placeholder = tf.placeholder(tf.int64, [1, None])
 word_embeddings = tf.get_variable("word_embeddings", [vocabulary_size, input_size], trainable=True)
 embedded_words = tf.nn.embedding_lookup(word_embeddings, wordids_placeholder)
 
-lstm = tf.contrib.cudnn_rnn.CudnnLSTM(2, hidden_size)
+lstm = tf.contrib.cudnn_rnn.CudnnLSTM(3, hidden_size)
 output2wordid = tf.layers.Dense(vocabulary_size)
 
 inputs = embedded_words[:, :-1, ]
@@ -126,14 +126,3 @@ with tf.Session(config=config) as sess:
             weight_arr.append(stn.shape[0]-1)
         print( np.exp(np.average(loss_arr, weights=weight_arr)) )
         
-    # test
-    f = open('jw7jb-tst-logprob.txt', 'w')
-    for batch_id, stn in enumerate(tqdm(tst_sentences, desc='testing')):
-        losses_ = sess.run(
-            losses, 
-            feed_dict = {
-                wordids_placeholder: np.expand_dims(stn, 0)
-            })  
-        for wid, prob in zip(stn[1:], losses_[0]) :
-            f.write( '{}\t{}\n'.format(idx2word[wid], -prob) )
-    f.close()

@@ -77,7 +77,7 @@ tf.summary.scalar('accuracy', accuracy)
 
 with tf.name_scope('train'):
     learning_rate = tf.placeholder(tf.float32, shape=[])
-    opt = tf.train.AdamOptimizer(learning_rate)
+    opt = tf.train.MomentumOptimizer(learning_rate, 0.01)
     grads_and_vars = opt.compute_gradients(total_loss)
     capped_grads_and_vars = [(tf.clip_by_norm(grad, 5.0), var) for grad, var in grads_and_vars]
     train_step = opt.apply_gradients(capped_grads_and_vars)
@@ -126,14 +126,3 @@ with tf.Session(config=config) as sess:
             weight_arr.append(stn.shape[0]-1)
         print( np.exp(np.average(loss_arr, weights=weight_arr)) )
         
-    # test
-    f = open('jw7jb-tst-logprob.txt', 'w')
-    for batch_id, stn in enumerate(tqdm(tst_sentences, desc='testing')):
-        losses_ = sess.run(
-            losses, 
-            feed_dict = {
-                wordids_placeholder: np.expand_dims(stn, 0)
-            })  
-        for wid, prob in zip(stn[1:], losses_[0]) :
-            f.write( '{}\t{}\n'.format(idx2word[wid], -prob) )
-    f.close()
